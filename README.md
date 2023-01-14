@@ -65,8 +65,6 @@ You can reach out to me or follow me on my various social media platforms for ad
 
 ## 📶 Github Stats:
 
-<p align="left">
-<img  align="" width="63%" src="https://streak-stats.demolab.com/?user=MathieuMorel62&theme=dark"/>
+<p align="center">
+<img  align="" width="100%" src="https://streak-stats.demolab.com/?user=MathieuMorel62&theme=dark"/>
 </p>
-
-<img src="https://media.giphy.com/media/exwlj8Tzb0l6E/giphy.gif" width="100%">
