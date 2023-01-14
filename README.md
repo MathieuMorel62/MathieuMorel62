@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Mathieu Morel, welcome to my Github
 
+<img src="https://media.giphy.com/media/loQBSxzBuYQLK/giphy.gif" width="100%">
+
 I am a student of Software Development at [**Holberton School**](https://www.holbertonschool.fr/?utm_source=googleads&utm_medium=cta&gclid=CjwKCAiAwomeBhBWEiwAM43YIPr8Wsl7spHpaka6UgWc8Ux3GIsnprc7izbJfkHWXGCqO33w0VPSdBoC8o8QAvD_BwE) in Lille, France 🇫🇷. Currently in my first year, I am studying languages such as [**C**](https://github.com/MathieuMorel62/holbertonschool-low_level_programming) , Python and I will discover other languages such as HTML, CSS, JavaScript and MySQL during this year. I have also learned to use the Bash command interpreter. I have had the opportunity to participate in group projects such as [**printf**](https://github.com/ali-jin/holbertonschool-printf), [**monty**](https://github.com/MathieuMorel62/holbertonschool-monty) and even creating our own [**simple shell**](https://github.com/MathieuMorel62/holbertonschool-simple_shell) . I can already appreciate the importance of collaboration and teamwork in computer development. It is important to stay up to date on the latest technologies and to continue learning new tools to become an experienced developer.
 
 <!--
@@ -67,3 +69,4 @@ You can reach out to me or follow me on my various social media platforms for ad
 <img  align="" width="63%" src="https://streak-stats.demolab.com/?user=MathieuMorel62&theme=dark"/>
 </p>
 
+<img src="https://media.giphy.com/media/exwlj8Tzb0l6E/giphy.gif" width="100%">
