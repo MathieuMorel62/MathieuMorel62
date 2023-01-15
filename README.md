@@ -65,7 +65,8 @@ You can reach out to me or follow me on my various social media platforms for ad
 
 ## 📶 Github Stats:
 
-<p align="center">
+<p align="">
 <img  align="" width="100%" src="https://github-readme-stats.vercel.app/api?username=MathieuMorel62&theme=vision-friendly-dark&show_icons=true">
-<img  align="" width="100%" src="https://streak-stats.demolab.com/?user=MathieuMorel62&theme=dark"/>
+<img  align="" width="100%" src="https://streak-stats.demolab.com/?user=MathieuMorel62&theme=vision-friendly-dark"/>
+<img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuMorel62&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
 </p>
