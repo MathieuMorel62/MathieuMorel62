@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </p>
 
 ## 📖 About Me
-- 🔭 I’m currently working on [**C - Binary trees**](https://github.com/MathieuMorel62/holbertonschool-binary_trees)
-- 🌱 I’m currently learning [**C Language**](https://github.com/MathieuMorel62/holbertonschool-low_level_programming)
+- 🔭 I’m currently working on [**Python - import & modules**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming/tree/main/python-import_modules)
+- 🌱 I’m currently learning [**Python Language**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming)
 - 🤝 I’m looking to collaborate on **Web Development** projects
 - 💬 Ask me about **Software development, C language, french food and the roadtrip in USA**
 <p>
