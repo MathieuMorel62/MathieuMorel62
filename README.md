@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [**Python - Exceptions**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming/tree/main/0x05-python-exceptions)
 - 🌱 I’m currently learning [**Python Language**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming)
 - 🤝 I’m looking to collaborate on **Web Development** projects
-- 💬 Ask me about **Software development, C language, french food 😜 and the roadtrip in USA 🗽 **
+- 💬 Ask me about **Software development, C language, french food 😜 and the roadtrip in USA 🗽**
 <p>
   <br>
 </p>
