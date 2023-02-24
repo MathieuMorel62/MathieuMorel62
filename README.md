@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <a href="https://trello.com/fr" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50"/></a>
     <a href="https://devdocs.io/git/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/></a>
   <a href="https://devdocs.io/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/></a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="50" height="50"/>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/></a>
   <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/></a>
   <br>
   <br>
