@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </p>
 
 ## 📖 About Me
-- 🔭 I’m currently working on [**AirBnB Clone**](https://github.com/MathieuMorel62/holbertonschool-AirBnB_clone)
-- 🌱 I’m currently learning [**Python Language**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming)
+- 🔭 I’m currently working on [**MySQL introduction**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming/tree/main/SQL_introduction)
+- 🌱 I’m currently learning [**MySQL**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming)
 - 🤝 I’m looking to collaborate on **Web Development** projects
 - 💬 Ask me about **Software development, C language, Python...**
 - ⚡ Fun fact: **I particularly enjoy road trips throughout the United States Of America** 🗽
