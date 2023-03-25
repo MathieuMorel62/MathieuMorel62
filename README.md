@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </p>
 
 ## 📖 About Me
-- 🔭 I’m currently working on [**MySQL introduction**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming/tree/main/SQL_introduction)
-- 🌱 I’m currently learning [**MySQL**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming)
+- 🔭 I’m currently working on [**AirBnB Clone - MySQL**](https://github.com/CaroChoch/holbertonschool-AirBnB_clone_v2)
+- 🌱 I’m currently learning [**MySQL**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming/tree/main/python-object_relational_mapping)
 - 🤝 I’m looking to collaborate on **Web Development** projects
 - 💬 Ask me about **Software development, C language, Python...**
 - ⚡ Fun fact: **I particularly enjoy road trips throughout the United States Of America** 🗽
@@ -39,9 +39,10 @@ Here are some ideas to get you started:
   <a href="https://devdocs.io/c/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
   <a href="https://devdocs.io/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/></a>
+  <a href="https://www.mysql.com/fr/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
   <a href="https://devdocs.io/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/></a>
   <a href="https://devdocs.io/markdown/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="50" height="50"/></a>
-
+ 
   <br>
   <br>
 </p>
