@@ -42,7 +42,8 @@ Here are some ideas to get you started:
   <a href="https://www.mysql.com/fr/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
   <a href="https://devdocs.io/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/></a>
   <a href="https://devdocs.io/markdown/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="50" height="50"/></a>
- 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"></a>
   <br>
   <br>
 </p>
