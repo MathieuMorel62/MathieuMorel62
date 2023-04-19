@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </p>
 
 ## 📖 About Me
-- 🔭 I’m currently working on [**AirBnB Clone - MySQL**](https://github.com/CaroChoch/holbertonschool-AirBnB_clone_v2)
-- 🌱 I’m currently learning [**MySQL**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming/tree/main/python-object_relational_mapping)
+- 🔭 I’m currently working on [**JQuery**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming/tree/main/javascript-web_jquery)
+- 🌱 I’m currently learning [**JavaScript**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming/tree/main/javascript-web_jquery)
 - 🤝 I’m looking to collaborate on **Web Development** projects
 - 💬 Ask me about **Software development, C language, Python...**
 - ⚡ Fun fact: **I particularly enjoy road trips throughout the United States Of America** 🗽
@@ -44,6 +44,9 @@ Here are some ideas to get you started:
   <a href="https://devdocs.io/markdown/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"></a>
+  <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"></a>
+  <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="50" height="50"></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" alt="Django" width="50" height="50"></a>
   <br>
   <br>
 </p>
