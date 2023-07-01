@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </p>
 
 ## 📖 About Me
-- 🔭 I’m currently working on [**JQuery**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming/tree/main/javascript-web_jquery)
-- 🌱 I’m currently learning [**JavaScript**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming/tree/main/javascript-web_jquery)
+- 🔭 I’m currently working on [**Portfolio**](https://github.com/CaroChoch/Portfolio-Foundations)
+- 🌱 I’m currently learning [**Django**](https://github.com/CaroChoch/Portfolio-Foundations)
 - 🤝 I’m looking to collaborate on **Web Development** projects
 - 💬 Ask me about **Software development, C language, Python...**
 - ⚡ Fun fact: **I particularly enjoy road trips throughout the United States Of America** 🗽
