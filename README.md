@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"></a>
   <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="50" height="50"></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" alt="Django" width="50" height="50"></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="50" height="50"/></a>
   <br>
   <br>
 </p>
