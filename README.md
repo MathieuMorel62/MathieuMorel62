@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 </p>
 
 ## 📖 About Me
-- 🔭 I’m currently working on [**Portfolio**](https://github.com/CaroChoch/Portfolio-Foundations)
-- 🌱 I’m currently learning [**Django**](https://github.com/CaroChoch/Portfolio-Foundations)
+- 🔭 I’m currently working on [**FullStack Specialisation**](https://github.com/MathieuMorel62/holbertonschool-web_front_end)
+- 🌱 I’m currently learning [**Script Markdown to HTML**](https://github.com/MathieuMorel62/holbertonschool-Markdown2HTML)
 - 🤝 I’m looking to collaborate on **Web Development** projects
 - 💬 Ask me about **Software development, C language, Python...**
 - ⚡ Fun fact: **I particularly enjoy road trips throughout the United States Of America** 🗽
+- 💼 Embracing dual roles at **[YPSO](https://www.linkedin.com/company/ypso-junior-entreprise/)** as **Treasurer and Fullstack Developer**
 <p>
   <br>
 </p>
@@ -48,6 +49,9 @@ Here are some ideas to get you started:
   <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="50" height="50"></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" alt="Django" width="50" height="50"></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="50" height="50"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/></a>
+  <!-- React Icon -->
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
   <br>
   <br>
 </p>
