@@ -2,26 +2,24 @@
 
 <img src="https://media.giphy.com/media/loQBSxzBuYQLK/giphy.gif" width="100%">
 
-I am a student in Software engineer at [**Holberton School**](https://www.holbertonschool.fr/?utm_source=googleads&utm_medium=cta&gclid=CjwKCAiAwomeBhBWEiwAM43YIPr8Wsl7spHpaka6UgWc8Ux3GIsnprc7izbJfkHWXGCqO33w0VPSdBoC8o8QAvD_BwE) in Lille, France 🇫🇷. Currently in my first year, I am studying languages such as [**C**](https://github.com/MathieuMorel62/holbertonschool-low_level_programming) , [**Python**](https://github.com/MathieuMorel62/holbertonschool-higher_level_programming) and I will discover other languages such as HTML, CSS, JavaScript and MySQL during this year. I have also learned to use the Bash command interpreter. I have had the opportunity to participate in group projects such as [**printf**](https://github.com/ali-jin/holbertonschool-printf), [**monty**](https://github.com/MathieuMorel62/holbertonschool-monty) and even creating our own [**simple shell**](https://github.com/MathieuMorel62/holbertonschool-simple_shell) . I can already appreciate the importance of collaboration and teamwork in computer development. It is important to stay up to date on the latest technologies and to continue learning new tools to become an experienced developer.
+I'm thrilled to share my journey as a software engineering student at [**Holberton School**](https://www.holbertonschool.fr/?utm_source=googleads&utm_medium=cta&gclid=CjwKCAiAwomeBhBWEiwAM43YIPr8Wsl7spHpaka6UgWc8Ux3GIsnprc7izbJfkHWXGCqO33w0VPSdBoC8o8QAvD_BwE) in Lille, France 🇫🇷.
 
-<!--
-**MathieuMorel62/MathieuMorel62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Studies and Achievements
 
-Here are some ideas to get you started:
+- **First Year Completed 🏅** - A successful year highlighted by the development of an e-commerce site for my portfolio project. This was a fantastic opportunity to apply and showcase my development skills. [Explore the Project](https://mathieumorel62.github.io/Portfolio-Project---Landing-Page/).
+- **Second Year Ongoing 🌐** - I am currently specializing in fullstack development. This direction broadens my web technology skills, making me more versatile and competent in the vast field of development. My choice to specialize in fullstack is driven by my desire to understand and master the entire application development process, from front-end design to back-end management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<a href="http://www.facebook.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"></a> pour une icone click
--->
-<p>
-  <br>
-</p>
+## 💼 Professional Experience and Community Engagement
+
+- **YPSO Junior Enterprise 🤝** - In my academic journey, I am actively involved in the development of the YPSO junior enterprise, both as a developer and a member of the executive team in the capacity of treasurer. This dual role enables me to blend my software development skills with financial management and leadership. My participation in YPSO is not just an opportunity to apply theoretical knowledge in a real-world setting but also significantly contributes to the growth of this student-managed enterprise. [Learn More About YPSO](https://www.linkedin.com/company/ypso-junior-entreprise/).
+
+## 🛠️ Skills and Projects
+
+- **Languages and Technologies** - My time at Holberton has enabled me to develop expertise in various languages and technologies, including C, Python, HTML, CSS, JavaScript, and MySQL. I also have solid proficiency in Bash command-line interpretation.
+- **Collaborative Projects** - I've strengthened my ability to work in a team and tackle technical challenges through participation in group projects such as [**Printf**](https://github.com/MathieuMorel62/holbertonschool-printf), [**Monty**](https://github.com/MathieuMorel62/holbertonschool-monty), the creation of a [**Simple Shell**](https://github.com/MathieuMorel62/holbertonschool-simple_shell) , and the development of the [**AirBnB Clone**](https://github.com/CaroChoch/holbertonschool-AirBnB_clone_v4) project. This project was particularly challenging and rewarding, as it involved building a complete web application from scratch.
+
+## 🌟 Goal and Vision
+- **Personal Ambition** - I aim to continue learning and improving myself. My goal is to become a seasoned developer, capable of adapting and innovating in an ever-evolving technological environment.
 
 ## 📖 About Me
 - 🔭 I’m currently working on [**FullStack Specialisation**](https://github.com/MathieuMorel62/holbertonschool-web_front_end)
@@ -30,9 +28,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Software development, C language, Python...**
 - ⚡ Fun fact: **I particularly enjoy road trips throughout the United States Of America** 🗽
 - 💼 Embracing dual roles at **[YPSO](https://www.linkedin.com/company/ypso-junior-entreprise/)** as **Treasurer and Fullstack Developer**
-<p>
-  <br>
-</p>
+<br>
 
  ## 💻 Languages:
 <p align="left">
@@ -67,6 +63,14 @@ Here are some ideas to get you started:
   <a href="https://hub.docker.com/r/nom_utilisateur/nom_image" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
   <br>
 </p>
+<br>
+
+## 📶 Github Stats:
+
+<p align="">
+<img  align="" width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MathieuMorel62&theme=vision-friendly-dark&show_icons=true"><img  align="" width="50%" height="200px" src="https://streak-stats.demolab.com/?user=MathieuMorel62&theme=vision-friendly-dark"/>
+<img align="" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuMorel62&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
+</p>
 
 ## 📫 Follow Me
 
@@ -81,11 +85,4 @@ You can reach out to me or follow me on my various social media platforms for ad
   <br>
 </p>
 
-
-## 📶 Github Stats:
-
-<p align="">
-<img  align="" width="100%" src="https://github-readme-stats.vercel.app/api?username=MathieuMorel62&theme=vision-friendly-dark&show_icons=true">
-<img  align="" width="100%" src="https://streak-stats.demolab.com/?user=MathieuMorel62&theme=vision-friendly-dark"/>
-<img align="" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuMorel62&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
-</p>
+----------
