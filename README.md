@@ -15,7 +15,7 @@ I'm thrilled to share my journey as a software engineering student at [**Holbert
 
 ## 🛠️ Skills and Projects
 
-- **Languages and Technologies** - My time at Holberton has enabled me to develop expertise in various languages and technologies, including C, Python, HTML, CSS, JavaScript, and MySQL. I also have solid proficiency in Bash command-line interpretation.
+- **Languages and Technologies** - My time at Holberton has enabled me to develop expertise in various languages and technologies, including C, Python, HTML, CSS, JavaScript, Flask, and MySQL. I also have solid proficiency in Bash command-line interpretation.
 - **Collaborative Projects** - I've strengthened my ability to work in a team and tackle technical challenges through participation in group projects such as [**Printf**](https://github.com/MathieuMorel62/holbertonschool-printf), [**Monty**](https://github.com/MathieuMorel62/holbertonschool-monty), the creation of a [**Simple Shell**](https://github.com/MathieuMorel62/holbertonschool-simple_shell) , and the development of the [**AirBnB Clone**](https://github.com/CaroChoch/holbertonschool-AirBnB_clone_v4) project. This project was particularly challenging and rewarding, as it involved building a complete web application from scratch.
 
 ## 🌟 Goal and Vision
