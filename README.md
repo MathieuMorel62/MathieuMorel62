@@ -69,8 +69,9 @@ I'm thrilled to share my journey as a software engineering student at [**Holbert
 ## 📶 Github Stats:
 
 <p align="">
-<img  align="" width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MathieuMorel62&theme=vision-friendly-dark&show_icons=true"><img  align="" width="50%" height="200px" src="https://streak-stats.demolab.com/?user=MathieuMorel62&theme=vision-friendly-dark"/>
+<img  align="" width="50%"  src="https://github-readme-stats.vercel.app/api?username=MathieuMorel62&theme=vision-friendly-dark&show_icons=true">
 <img align="" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuMorel62&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
+<img  align="" width="50%"  src="https://streak-stats.demolab.com/?user=MathieuMorel62&theme=vision-friendly-dark"/>
 </p>
 
 ## 📫 Follow Me
