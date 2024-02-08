@@ -22,8 +22,8 @@ I'm thrilled to share my journey as a software engineering student at [**Holbert
 - **Personal Ambition** - I aim to continue learning and improving myself. My goal is to become a seasoned developer, capable of adapting and innovating in an ever-evolving technological environment.
 
 ## 📖 About Me
-- 🔭 I’m currently working on [**FullStack Specialisation**](https://github.com/MathieuMorel62/holbertonschool-web_front_end)
-- 🌱 I’m currently learning [**Script Markdown to HTML**](https://github.com/MathieuMorel62/holbertonschool-Markdown2HTML)
+- 🔭 I’m currently working on [**FullStack Web Back End**](https://github.com/MathieuMorel62/holbertonschool-web_back_end)
+- 🌱 I’m currently learning [**Caching**](https://github.com/MathieuMorel62/holbertonschool-web_back_end/tree/main/caching)
 - 🤝 I’m looking to collaborate on **Web Development** projects
 - 💬 Ask me about **Software development, C language, Python...**
 - ⚡ Fun fact: **I particularly enjoy road trips throughout the United States Of America** 🗽
