@@ -68,6 +68,9 @@ I'm thrilled to share my journey as a software engineering student at [**Holbert
   <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/></a>
   <a href="https://hub.docker.com/r/nom_utilisateur/nom_image" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
   <a href="https://www.figma.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/></a>
+  <a href="https://www.netlify.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50" height="50"/>
+ </a>
   <br>
 </p>
 <br>
