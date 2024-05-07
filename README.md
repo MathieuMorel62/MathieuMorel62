@@ -22,8 +22,8 @@ I'm thrilled to share my journey as a software engineering student at [**Holbert
 - **Personal Ambition** - I aim to continue learning and improving myself. My goal is to become a seasoned developer, capable of adapting and innovating in an ever-evolving technological environment.
 
 ## 📖 About Me
-- 🔭 I’m currently working on [**FullStack Web Back End**](https://github.com/MathieuMorel62/holbertonschool-web_back_end)
-- 🌱 I’m currently learning [**Caching**](https://github.com/MathieuMorel62/holbertonschool-web_back_end/tree/main/caching)
+- 🔭 I’m currently working on [**FullStack Web Back End**](https://github.com/MathieuMorel62/holbertonschool-web_react)
+- 🌱 I’m currently learning [**React**](https://github.com/MathieuMorel62/holbertonschool-web_react)
 - 🤝 I’m looking to collaborate on **Web Development** projects
 - 💬 Ask me about **Software development, C language, Python...**
 - ⚡ Fun fact: **I particularly enjoy road trips throughout the United States Of America** 🗽
@@ -62,15 +62,16 @@ I'm thrilled to share my journey as a software engineering student at [**Holbert
 <p align="left">
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/></a>
   <a href="https://trello.com/fr" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50"/></a>
-    <a href="https://devdocs.io/git/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/></a>
+  <a href="https://devdocs.io/git/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/></a>
   <a href="https://devdocs.io/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/></a>
   <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/></a>
   <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/></a>
   <a href="https://hub.docker.com/r/nom_utilisateur/nom_image" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
   <a href="https://www.figma.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/></a>
-  <a href="https://www.netlify.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50" height="50"/>
- </a>
+  <a href="https://www.netlify.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50" height="50"/></a>
+  <a href="https://slack.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" width="50" height="50"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/></a>
+  <a href="https://gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/></a>
   <br>
 </p>
 <br>
