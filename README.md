@@ -70,7 +70,7 @@ I'm thrilled to share my journey as a software engineering student at [**Holbert
   <a href="https://www.figma.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/></a>
   <a href="https://www.netlify.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50" height="50"/></a>
   <a href="https://slack.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" width="50" height="50"/></a>
-  <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=144583572237&campaign=19313890934&creative=662781913346&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p74602912889&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=EAIaIQobChMIheevrNf7hQMVjZlQBh0uZwoGEAAYASAAEgJJavD_BwE&gclsrc=aw.ds" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/></a>
   <a href="https://gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/></a>
   <br>
 </p>
