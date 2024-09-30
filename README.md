@@ -1,100 +1,103 @@
-# Hi there 👋, I'm Mathieu Morel, welcome to my Github
+# Mathieu Morel - Fullstack Developer 🚀
+[![](https://visitcount.itsvg.in/api?id=MathieuMorel62&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <img src="https://media.giphy.com/media/loQBSxzBuYQLK/giphy.gif" width="100%">
 
-I'm thrilled to share my journey as a software engineering student at [**Holberton School**](https://www.holbertonschool.fr/?utm_source=googleads&utm_medium=cta&gclid=CjwKCAiAwomeBhBWEiwAM43YIPr8Wsl7spHpaka6UgWc8Ux3GIsnprc7izbJfkHWXGCqO33w0VPSdBoC8o8QAvD_BwE) in Lille, France 🇫🇷.
+My name is Mathieu Morel, and I am a fullstack developer. I recently completed my training at [**Holberton School**](https://www.holbertonschool.fr/?utm_source=googleads&utm_medium=cta&gclid=CjwKCAiAwomeBhBWEiwAM43YIPr8Wsl7spHpaka6UgWc8Ux3GIsnprc7izbJfkHWXGCqO33w0VPSdBoC8o8QAvD_BwE) in Lille, France 🇫🇷, where I developed strong skills in front-end and back-end development. I am now actively seeking a professional opportunity to further grow in this exciting field.
 
-## 🎓 Studies and Achievements
+## 🎓 Education and Achievements
 
-- **First Year Completed 🏅** - A successful year highlighted by the development of an e-commerce site for my portfolio project. This was a fantastic opportunity to apply and showcase my development skills. [Explore the Project](https://mathieumorel62.github.io/Portfolio-Project---Landing-Page/).
-- **Second Year Ongoing 🌐** - I am currently specializing in fullstack development. This direction broadens my web technology skills, making me more versatile and competent in the vast field of development. My choice to specialize in fullstack is driven by my desire to understand and master the entire application development process, from front-end design to back-end management.
+- **Holberton School Graduate**  
+  I completed my specialization in **fullstack development**, with expertise in creating full applications, from user interfaces to back-end systems. I also worked on complex projects, incorporating the best practices in web development.
 
-## 💼 Professional Experience and Community Engagement
+- **Final Project - EasyTrip**  
+  My capstone project, [**EasyTrip**](https://github.com/MathieuMorel62/EasyTrip), is a web application for trip planning. This project harnessed all the skills I acquired during my training, using technologies like **React**, **Vite**, **Node.js**, and **Tailwind**. [Explore the project here.](https://github.com/MathieuMorel62/EasyTrip)
 
-- **YPSO Junior Enterprise 🤝** - In my academic journey, I am actively involved in the development of the YPSO junior enterprise, both as a developer and a member of the executive team in the capacity of treasurer. This dual role enables me to blend my software development skills with financial management and leadership. My participation in YPSO is not just an opportunity to apply theoretical knowledge in a real-world setting but also significantly contributes to the growth of this student-managed enterprise. [Learn More About YPSO](https://www.linkedin.com/company/ypso-junior-entreprise/).
+## 💼 Professional Experience
 
-## 🛠️ Skills and Projects
+- **Co-founder and Fullstack Developer - YPSO Junior Enterprise**  
+  During my training, I co-founded [**YPSO Junior Enterprise**](https://www.linkedin.com/company/ypso-junior-entreprise/), where I worked as a fullstack developer while also serving as treasurer. My involvement in both the technical and operational management of this structure allowed me to enhance my development skills as well as my project management and leadership abilities.
 
-- **Languages and Technologies** - My time at Holberton has enabled me to develop expertise in various languages and technologies, including C, Python, HTML, CSS, JavaScript, Flask, and MySQL. I also have solid proficiency in Bash command-line interpretation.
-- **Collaborative Projects** - I've strengthened my ability to work in a team and tackle technical challenges through participation in group projects such as [**Printf**](https://github.com/MathieuMorel62/holbertonschool-printf), [**Monty**](https://github.com/MathieuMorel62/holbertonschool-monty), the creation of a [**Simple Shell**](https://github.com/MathieuMorel62/holbertonschool-simple_shell) , and the development of the [**AirBnB Clone**](https://github.com/CaroChoch/holbertonschool-AirBnB_clone_v4) project. This project was particularly challenging and rewarding, as it involved building a complete web application from scratch.
+  I worked on collaborative projects for various clients, including:
+  - **Data matching** tasks
+  - **Website development**
+  - **Intranet development**
+ 
+  Through these projects, I gained valuable experience in project management, client communication, and fullstack development, strengthening both my technical and organizational skills.
 
-## 🌟 Goal and Vision
-- **Personal Ambition** - I aim to continue learning and improving myself. My goal is to become a seasoned developer, capable of adapting and innovating in an ever-evolving technological environment.
+- **Collaborative Projects at Holberton School**  
+  - [Printf](https://github.com/MathieuMorel62/holbertonschool-printf)  
+  - [Monty](https://github.com/MathieuMorel62/holbertonschool-monty)  
+  - [Simple Shell](https://github.com/MathieuMorel62/holbertonschool-simple_shell)  
+  - [AirBnB Clone](https://github.com/CaroChoch/holbertonschool-AirBnB_clone_v4)  
 
-## 📖 About Me
-- 🔭 I’m currently working on [**FullStack Web Back End**](https://github.com/MathieuMorel62/holbertonschool-web_react)
-- 🌱 I’m currently learning [**React**](https://github.com/MathieuMorel62/holbertonschool-web_react)
-- 🤝 I’m looking to collaborate on **Web Development** projects
-- 💬 Ask me about **Software development, C language, Python...**
-- ⚡ Fun fact: **I particularly enjoy road trips throughout the United States Of America** 🗽
-- 💼 Embracing dual roles at **[YPSO](https://www.linkedin.com/company/ypso-junior-entreprise/)** as **Treasurer and Fullstack Developer**
-<br>
+These projects were unique opportunities to collaborate with other developers and create robust, innovative technical solutions.
 
- ## 💻 Languages:
-<p align="left">
-  <br>
-  <a href="https://devdocs.io/c/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"></a>
-  <a href="https://www.mysql.com/fr/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
-  <a href="https://devdocs.io/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/></a>
-  <a href="https://devdocs.io/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/></a>
-  <a href="https://devdocs.io/markdown/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="50" height="50"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"></a>
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"></a>
-  <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="50" height="50"></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" alt="Django" width="50" height="50"></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="50" height="50"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/></a>
- <a href="https://www.typescriptlang.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
- </a>
-  <br>
-  <br>
-</p>
+## 💻 Tech Stack:
 
-## 🧰 Tools:
-<p align="left">
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/></a>
-  <a href="https://trello.com/fr" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50"/></a>
-  <a href="https://devdocs.io/git/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/></a>
-  <a href="https://devdocs.io/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/></a>
-  <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/></a>
-  <a href="https://hub.docker.com/r/nom_utilisateur/nom_image" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
-  <a href="https://www.figma.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/></a>
-  <a href="https://www.netlify.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50" height="50"/></a>
-  <a href="https://slack.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" width="50" height="50"/></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/></a>
-  <a href="https://gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/></a>
-  <br>
-</p>
-<br>
+#### Programming Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-## 📶 Github Stats:
+#### Frontend Development:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 
-<p align="">
-<img  align="" width="50%"  src="https://github-readme-stats.vercel.app/api?username=MathieuMorel62&theme=vision-friendly-dark&show_icons=true">
-<img align="" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuMorel62&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
-<img  align="" width="50%"  src="https://streak-stats.demolab.com/?user=MathieuMorel62&theme=vision-friendly-dark"/>
-</p>
+#### Backend Development:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 
-## 📫 Follow Me
+#### Mobile & Web Development Frameworks:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-You can reach out to me or follow me on my various social media platforms for additional information:
+#### Databases:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<p align="left">
-  <br>
-  <a href="https://twitter.com/Gabana62"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="50" height="50"></a>
-  <a href="https://www.linkedin.com/in/mathieu-morel-9ab457261/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"></a>    
-  <a href="https://medium.com/@mormth"><img src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" alt="medium" width="50" height="50"></a>
-  <br>
-  <br>
-</p>
+#### DevOps and Tools:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-----------
+#### Design Tools:
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+## 🌟 Professional Goals
+
+I am actively seeking a position as a **fullstack developer** where I can leverage my technical skills and passion for web development. I am particularly interested in dynamic, collaborative environments, where I can contribute to the success of ambitious projects while continuing to learn.
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MathieuMorel62&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=MathieuMorel62&theme=one_dark_pro&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuMorel62&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mathieumorel62/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mormth) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Gabana62)  
+
+## 📬 Contact
+
+- **LinkedIn** : [Mathieu Morel](https://www.linkedin.com/in/mathieumorel62/)  
+- **Portfolio** : [mathieu-morel.netlify.app](https://mathieu-morel.netlify.app)  
+- **GitHub** : [MathieuMorel62](https://github.com/MathieuMorel62)  
+- **Email** : mywebconception@gmail.com
+
+Feel free to reach out to discuss professional opportunities or interesting project collaborations!
