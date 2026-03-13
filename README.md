@@ -1,4 +1,4 @@
-# Mathieu Morel - Fullstack Developer 🚀
+# Mathieu Morel - Fullstack Developer
 [![](https://visitcount.itsvg.in/api?id=MathieuMorel62&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <img src="https://media.giphy.com/media/loQBSxzBuYQLK/giphy.gif" width="100%">
